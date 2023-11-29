@@ -1,0 +1,40 @@
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_LAB3\POOVD_LAB3\bin\Debug\POOVD_LAB3.exe.config
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_LAB3\POOVD_LAB3\bin\Debug\POOVD_LAB3.exe
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_LAB3\POOVD_LAB3\bin\Debug\POOVD_LAB3.pdb
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.Form1.resources
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.Properties.Resources.resources
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.exe
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.pdb
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 5\Программное обеспечение обработки визуальных данных\лаба 3\POOVD_LAB3\POOVD_LAB3\bin\Debug\POOVD_LAB3.exe.config
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 5\Программное обеспечение обработки визуальных данных\лаба 3\POOVD_LAB3\POOVD_LAB3\bin\Debug\POOVD_LAB3.exe
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 5\Программное обеспечение обработки визуальных данных\лаба 3\POOVD_LAB3\POOVD_LAB3\bin\Debug\POOVD_LAB3.pdb
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 5\Программное обеспечение обработки визуальных данных\лаба 3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 5\Программное обеспечение обработки визуальных данных\лаба 3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.Form1.resources
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 5\Программное обеспечение обработки визуальных данных\лаба 3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.Properties.Resources.resources
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 5\Программное обеспечение обработки визуальных данных\лаба 3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 5\Программное обеспечение обработки визуальных данных\лаба 3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 5\Программное обеспечение обработки визуальных данных\лаба 3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.exe
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 5\Программное обеспечение обработки визуальных данных\лаба 3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.pdb
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_L3\POOVD_LAB3\POOVD_LAB3\bin\Debug\POOVD_LAB3.exe.config
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_L3\POOVD_LAB3\POOVD_LAB3\bin\Debug\POOVD_LAB3.exe
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_L3\POOVD_LAB3\POOVD_LAB3\bin\Debug\POOVD_LAB3.pdb
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_L3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_L3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.Form1.resources
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_L3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.Properties.Resources.resources
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_L3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_L3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_L3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.exe
+C:\Users\Егор\Desktop\ВУЗ\5 семестр\ПООВД\лаб3\POOVD_L3\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.pdb
+C:\Users\Admin\Desktop\POOVD_LAB3\POOVD_LAB3\bin\Debug\POOVD_LAB3.exe.config
+C:\Users\Admin\Desktop\POOVD_LAB3\POOVD_LAB3\bin\Debug\POOVD_LAB3.exe
+C:\Users\Admin\Desktop\POOVD_LAB3\POOVD_LAB3\bin\Debug\POOVD_LAB3.pdb
+C:\Users\Admin\Desktop\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.Form1.resources
+C:\Users\Admin\Desktop\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.Properties.Resources.resources
+C:\Users\Admin\Desktop\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.exe
+C:\Users\Admin\Desktop\POOVD_LAB3\POOVD_LAB3\obj\Debug\POOVD_LAB3.pdb
